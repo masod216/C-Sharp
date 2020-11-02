@@ -1,0 +1,95 @@
+Test in CSharp , masood ghanem 207060906 . 
+
+# 1 question : 
+double z = 7.3;
+float f1 = (float)z;
+float f2 = Convert.ToSingle(z);
+
+# 2 question :
+Console.WriteLine("Enter Number");
+int Number = int.Parse(Console.ReadLine());
+
+# 3 question :
+ה OUTPUT יוצא = 9 
+התוכנה או הפונקציה מכפילה את המספר בעצמו שזה אומר 
+3*3=9 
+
+# 4 question :
+b. = operator is used to assign values from one variable to another variable == operator is used to compare value between two variables
+
+# 5 question :
+Overloading.
+
+# 6 question :
+(לא)
+C # אינו תומך בירושה מרובה, כי נימקו  הוספת ירושה מרובה הוסיפה יותר מדי מורכבות ל- C # תוך שהיא מספקת תועלת מועטה מדי.
+ ב- C #, הכיתות מורשות לרשת ממחלקת הורים חד הוריים, שהיא ירושה יחידה. אבל אפשר להשתמש בממשקים או בשילוב של מחלקה אחת וממשק(S), כאשר ממשק (S) צריך להיות ואחריו את שם מחלקה בחתימה.
+
+# 7 question :
+a. true false
+
+# 8 question :
+1)first way to create matrix:
+  int[][] matrix1 = new int[2][];
+            matrix1[0] = new int[] { 1, 2, 3 };
+            matrix1[1] = new int[] { 4, 5, 6 };
+2)another way to create matrix:
+string[][] matrix2 = new string[2][] { new string[] { "a", "b"}, new string[] { "c", "d" } };
+
+1)first way to create array :
+            int[] arr1 = new int[3];
+            arr1[0] = 2;
+            arr1[1] = 4;
+            arr1[2] = 6;
+2)1)another way to create array :
+ int[] arr2 = new int[3] { 1, 2, 3 };
+
+# 9 question :
+d. int32
+
+# 10 question :
+Blueprint classesאינם טופסים מקום בזיכרון 
+
+# 11 question :
+d. Math and Console are both static classes, from namespace System .
+
+# 12 question :
+d. contructor can return any variable.
+
+# 13 question :
+b. A a1 = new B();
+
+# 14 question :
+d. A static constructor can be used only in a static class.
+
+# 15 question :
+Object of class Animal.
+
+# 16 question :
+ההבדלים הגדולים ביותר הם שלולאת foreach מעבדת מופע של כל אלמנט באוסף ,
+ וloop for יכול לעבוד עם כל נתונים ואינו מוגבל רק לאלמנטים של אוסף. 
+שורה תחתונה לולאת for יכולה לשנות אוסף - שאינו חוקי ויגרום לשגיאה בלולאת foreach
+
+# 17 question :
+X
+Y
+# 18 question :
+b. C c1 = new B()
+
+# 19 question :
+b. C c1 = new B()
+a1 = A
+a2 = B
+a3 = B
+b1 = B
+b2 = B
+C1 = error
+C2 = C
+
+# 20 question :
+ניתן להגדיר readonly 
+בקונסטרוקטור או בשורת האתחול וניתן לשנות אותו בבונה רק כשעומד בתחילה או בראש המופע
+
+
+
+
